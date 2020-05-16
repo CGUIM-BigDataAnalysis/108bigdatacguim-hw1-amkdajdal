@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589647966645.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "230839117",
+    "id" : "3DC9C703",
+    "lastKnownWriteTime" : 1589647868,
+    "last_content_update" : 1589647868,
+    "path" : "~/Documents/GitHub/108bigdatacguim-hw1-amkdajdal/DataAnalysis.R",
+    "project_path" : "DataAnalysis.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
