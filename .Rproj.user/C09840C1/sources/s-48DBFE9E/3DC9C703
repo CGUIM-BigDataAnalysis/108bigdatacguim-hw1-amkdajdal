@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "230839117",
+    "hash" : "3190218901",
     "id" : "3DC9C703",
-    "lastKnownWriteTime" : 1589647868,
-    "last_content_update" : 1589647868,
+    "lastKnownWriteTime" : 1589687441,
+    "last_content_update" : 1589687441805,
     "path" : "~/Documents/GitHub/108bigdatacguim-hw1-amkdajdal/DataAnalysis.R",
     "project_path" : "DataAnalysis.R",
     "properties" : {
+        "cursorPosition" : "5,119",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [

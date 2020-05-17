@@ -12,7 +12,10 @@ author: 李侑霖
 ```{r dataload}
 library(readr)
 library(dplyr)
-
+data107_education<-read.csv("/Users/harry88/Downloads/4133da254dbcdba28a2097de48d8d606_csv/107年各教育程度別初任人員每人每月經常性薪資─按大職類分.csv")
+knitr::kable(head(data107_education))
+data107_work<-read.csv("/Users/harry88/Downloads/4133da254dbcdba28a2097de48d8d606_csv/107年各職類別初任人員每人每月經常性薪資－按行業別分.csv")
+knitr::kable(head(data107_work))
 ```
 
 ### 107年度薪資較104年度薪資高的職業有哪些? 
